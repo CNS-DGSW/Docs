@@ -1,0 +1,8 @@
+{
+  "label": "IDA(User) - Diagarm",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "CNS 서비스에 사용되는 state와 같은 값들에 흐름을 알기위한 DOCS입니다."
+  }
+}

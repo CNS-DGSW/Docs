@@ -1,0 +1,8 @@
+{
+  "label": "CNS - Funnel",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "CNS 서비스에 사용되는 퍼널 라이브러리입니다"
+  }
+}
